@@ -6,11 +6,15 @@ A complete educational project demonstrating **TCP networking** and **real-time 
 -  A **packet sniffer** (Npcap)
 
 Perfect for learning how data flows over networks — even on `localhost`.
+
+
 🛑how to RUN:
 1- Start the Sniffer (let it print "waiting for traffic")
 2- Start the Server
 3- Start the Client
-4- Send a message
+4- Send a message.
+
+
 DEMO(project test)
 ![Image Alt](https://github.com/zx9-x/Packet-Sniffer/blob/1e186e8ec10514967469f0cf60b019159bc5e4ee/Packet%20Sniffer/test.png)
 
