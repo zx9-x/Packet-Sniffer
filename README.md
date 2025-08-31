@@ -9,10 +9,10 @@ Perfect for learning how data flows over networks — even on `localhost`.
 
 
 🛑how to RUN:
-1- Start the Sniffer (let it print "waiting for traffic").
-2- Start the Server.
-3- Start the Client.
-4- Send a message.
+-1 Start the Sniffer.
+-2 Start the Server.
+-3 Start the Client.
+-4 Send a message.
 
 
 DEMO(project test)
