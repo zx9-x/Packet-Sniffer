@@ -1,0 +1,11 @@
+
+.ip_header and tcp_header structuresto parse the packet content .
+
+.You should convert the 32 binary ip to a human readable language (127.0.0.1) .
+
+the import part of the sniffer is the packet_handler function because it processes the packets and print them by the list after pcap_loop() capture them.
+__Receive the captured packets
+__parse the IP and TCP
+__filters traffic by port 5555 like the Server project 
+__ Extracts and print output to the console 
+ 

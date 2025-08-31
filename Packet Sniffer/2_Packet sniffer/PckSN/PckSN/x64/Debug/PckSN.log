@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\PC GAMER\Documents\C++\Packet Sniffer\2_Packet sniffer\PckSN\Main.cpp(69,12): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+  PckSN.vcxproj -> C:\Users\PC GAMER\Documents\C++\Packet Sniffer\2_Packet sniffer\PckSN\x64\Debug\PckSN.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

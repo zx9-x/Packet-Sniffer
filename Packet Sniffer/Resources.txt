@@ -1,0 +1,3 @@
+some recourses:
+_WINSOCK APP: https://learn.microsoft.com/en-us/windows/win32/winsock/getting-started-with-winsock
+_Npcap Development Tutorial: https://npcap.com/guide/npcap-tutorial.html

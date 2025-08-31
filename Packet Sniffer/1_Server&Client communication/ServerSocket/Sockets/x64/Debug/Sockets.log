@@ -1,0 +1,5 @@
+﻿  Sockets.cpp
+C:\Users\PC GAMER\Documents\C++\Packet Sniffer\1_Server&Client communication\ServerSocket\Sockets.cpp(88,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Sockets.vcxproj -> C:\Users\PC GAMER\Documents\C++\Packet Sniffer\1_Server&Client communication\ServerSocket\x64\Debug\Sockets.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

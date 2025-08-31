@@ -1,0 +1,17 @@
+=======Server side:
+intiliaze Socket (Load WinSock dll(WSAStartup))
+Socket Creation 
+configure Socket (IPV4,local host, 8080 , TCP)
+Bind the socket
+receive message
+Listener
+AcceptSocket
+=======Client side:
+intiliaze Socket (Load WinSock dll(WSAStartup))
+Socket Creation
+configure Socket (IPV4,local host, 8080 , TCP)
+and finelly connect the socket with the server 
+Send message
+
+
+ 
