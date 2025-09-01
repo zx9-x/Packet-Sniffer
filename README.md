@@ -10,7 +10,9 @@ Perfect for learning how data flows over networks — even on `localhost`.
 ⚙️ Setting Up Npcap in Visual Studio
 If you get errors like pcap.h not found or unresolved external symbols, you need to link the Npcap SDK to your project. extract the Npcap SDK and configure Visual Studio as follows:
 
-Include Path: Add C:\path\to\npcap-sdk\Include (copy ur own path) in Project Properties > C/C++ > General > Additional Include Directories.<br/>
+Include Path: Add C:\path\to\npcap-sdk\Include (copy ur own path) in Project Properties > C/C++ > General > Additional Include Directories.
+
+
 Library Path: Add C:\path\to\npcap-sdk\Lib\x64 (copy ur own path) in Project Properties > Linker > General > Additional Library Directories.
 
 🛑how to RUN:
