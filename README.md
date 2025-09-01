@@ -12,13 +12,15 @@ If you get errors like pcap.h not found or unresolved external symbols, you need
 
 Include Path: Add C:\path\to\npcap-sdk\Include (copy ur own path) in Project Properties > C/C++ > General > Additional Include Directories.
 
-
 Library Path: Add C:\path\to\npcap-sdk\Lib\x64 (copy ur own path) in Project Properties > Linker > General > Additional Library Directories.
 
 🛑how to RUN:
 -1 Start the Sniffer.
+
 -2 Start the Server.
+
 -3 Start the Client.
+
 -4 Send a message.
 
 
